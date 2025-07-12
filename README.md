@@ -8,13 +8,13 @@
 </h1>
 
 <h1 align="center"> Akwaaba 👋, I'm ✨ <i>Bernard Assan</i> ✨</h1>
-<h3 align="center">Systems Software | Machine Learning | Linux Engineer</h3>
+<h3 align="center">Systems Software Engineer | Data Scientist | Cloud Engineer</h3>
 
 <p align="center"> <a href="https://twitter.com/bernardassan" target="blank"><img src="https://img.shields.io/twitter/follow/bernardassan?logo=twitter&style=for-the-badge" alt="bernardassan" /></a> </p>
 
-👨‍💻 I'm a software engineer who loves **Systems Programming**, **Linux Systems** and **Project Management**:
+👨‍💻 I'm a software engineer who loves **Systems Programming**, **Project Management** and **Linux Systems**:
 
-- ⚡ I am interested in **Machine Learning**, **Backend Engineering**, **Compiler Development**, and **Graphics & Network Programming**
+- ⚡ I am interested in **Data Science**, **Cloud Computing**, **Backend Engineering**, **Compiler Development**, and **Graphics & Network Programming**
 - 🔭 Currently working on [**Imagination**](https://github.com/bernardassan/imagination), [**Zvips**](https://github.com/bernardassan/zvips), [**Recblock**](https://github.com/bernardassan/recblock), and [**ModernC**](https://github.com/bernardassan/modernc)
 - 👯 Looking to collaborate on **Zig**, **Rust**, **C++**,  **C**, **Python** and **Lua** projects. 
 - 📫 Reach me [**_@themalpha_**](https://t.me/themalpha) on _telegram_ and [**_@mega.alpha_**](https://discord.com/users/760132467931217921) on _discord_
@@ -42,7 +42,7 @@ original web icon image https://github-production-user-asset-6210df.s3.amazonaws
 
 ## 🛠️ Languages & Tools
 
-![My Skills](https://skillicons.dev/icons?i=zig,rust,cpp,c,python,lua,linux,bash,git,github,docker,gcp,mysql,mongodb,wasm)
+![My Skills](https://skillicons.dev/icons?i=zig,rust,cpp,c,ts,python,linux,bash,gcp,aws,docker,postgres,mysql,mongodb,bun,git,github,wasm&perline=18)
 
 
 ## 🔥 Stats

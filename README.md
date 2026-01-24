@@ -73,32 +73,3 @@ original web icon image https://github-production-user-asset-6210df.s3.amazonaws
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bernardassan&langs_count=10&layout=compact&size_weight=0.3&count_weight=0.7&custom_title=Overall%20Language%20Statistics" width="39%"/>
 </picture>
 </div>
-
-<div align="center">  
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://api.githubtrends.io/user/svg/Ultra-Code/langs?time_range=six_months&theme=dark"
-  />
-  <source
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    srcset="https://api.githubtrends.io/user/svg/Ultra-Code/langs?time_range=six_months&theme=classic"
-  />
-
-  <img align="center" src="https://api.githubtrends.io/user/svg/Ultra-Code/langs?time_range=six_months" alt="Language stats" width="39%"/>
-</picture>
-
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://api.githubtrends.io/user/svg/Ultra-Code/repos?time_range=six_months&theme=dark"
-  />
-  <source
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    srcset="https://api.githubtrends.io/user/svg/Ultra-Code/repos?time_range=six_months&theme=classic"
-  />
- 
- <img align="center" src="https://api.githubtrends.io/user/svg/Ultra-Code/repos?time_range=six_months" alt="Repository stats" width="39%"/>
-</picture>
-</div>

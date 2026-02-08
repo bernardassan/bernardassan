@@ -50,7 +50,7 @@ original web icon image https://github-production-user-asset-6210df.s3.amazonaws
 <!-- https://stackoverflow.com/questions/12090472/how-do-i-center-an-image-in-the-readme-md-file-on-github -->
 <div align="center">
 <picture>
-  <source
+  <!-- <source
     media="(prefers-color-scheme: dark)"
     srcset="https://github-readme-stats.vercel.app/api?username=bernardassan&show_icons=true&theme=dark"
   />
@@ -58,11 +58,12 @@ original web icon image https://github-production-user-asset-6210df.s3.amazonaws
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     srcset="https://github-readme-stats.vercel.app/api?username=bernardassan&show_icons=true"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=bernardassan&show_icons=true" width="39%"/>
+ -->
+  <img src="./profile/stats.svg" width="39%"/>
 </picture>
 
 <picture>
-  <source
+<!--  <source
    media="(prefers-color-scheme: dark)"
    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=bernardassan&langs_count=10&layout=compact&size_weight=0.3&count_weight=0.7&theme=dark&custom_title=Overall%20Language%20Statistics"
   />
@@ -70,6 +71,7 @@ original web icon image https://github-production-user-asset-6210df.s3.amazonaws
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     srcset="https://github-readme-stats.vercel.app/api/top-langs?username=bernardassan&langs_count=10&layout=compact&size_weight=0.3&count_weight=0.7&custom_title=Overall%20Language%20Statistics"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bernardassan&langs_count=10&layout=compact&size_weight=0.3&count_weight=0.7&custom_title=Overall%20Language%20Statistics" width="39%"/>
+ -->
+  <img src="./profile/top-langs.svg" width="39%"/>
 </picture>
 </div>

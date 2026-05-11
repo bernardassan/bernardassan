@@ -32,13 +32,15 @@ original web icon image https://github-production-user-asset-6210df.s3.amazonaws
 
 ## Connect with me
 
-<p align="left">
-<a href="https://twitter.com/bernardassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bernardassan" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/bernardassan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bernard-assan-a2744b254/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/12007740/mega-alpha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/12007740/mega-alpha" height="30" width="40" /></a>
-<a href="https://kaggle.com/megaalpha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/megaalpha" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/bernardassan100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bernardassan100" height="30" width="40" /></a>
-</p>
+<table>
+  <tr>
+    <td><a href="https://twitter.com/bernardassan" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bernardassan" height="30" width="40" /></a></td>
+    <td><a href="https://www.linkedin.com/in/bernardassan/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a></td>
+    <td><a href="https://stackoverflow.com/users/12007740/mega-alpha" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="40" /></a></td>
+    <td><a href="https://kaggle.com/megaalpha" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" /></a></td>
+    <td><a href="https://www.hackerrank.com/bernardassan100" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" /></a></td>
+  </tr>
+</table>
 
 ## 🛠️ Languages & Tools
 

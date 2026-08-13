@@ -8,15 +8,17 @@
 </h1>
 
 <h1 align="center"> Akwaaba 👋, I'm ✨ <i>Bernard Assan</i> ✨</h1>
-<h3 align="center">Systems Software Engineer | Data Scientist | Cloud Engineer</h3>
+<h3 align="center">Systems Software Engineer | Data Scientist | Linux Systems Engineer</h3>
 
 <p align="center"> <a href="https://twitter.com/bernardassan" target="blank"><img src="https://img.shields.io/twitter/follow/bernardassan?logo=twitter&style=for-the-badge" alt="bernardassan" /></a> </p>
 
 👨‍💻 I'm a software engineer who loves **Systems Programming**, **Project Management** and **Linux Systems**:
 
-- ⚡ I am interested in **Data Science**, **Cloud Computing**, **Backend Engineering**, **Compiler Development**, and **Graphics & Network Programming**
-- 🔭 Currently working on [**Imagination**](https://github.com/bernardassan/imagination), [**Zvips**](https://github.com/bernardassan/zvips), [**Recblock**](https://github.com/bernardassan/recblock), and [**ModernC**](https://github.com/bernardassan/modernc)
-- 👯 Looking to collaborate on **Zig**, **Rust**, **C++**,  **C**, **Python** and **Lua** projects. 
+- 🌱 Interested in **Backend Engineering**, **Compiler Development**, **Network Programming**, and **Cloud Computing**
+- 👨‍💻 Maintainer of [**Zzz**](https://github.com/tardy-org/zzz), [**Lmdb**](https://github.com/allyourcodebase/lmdb), [**Tardy**](https://github.com/tardy-org/tardy),  [**Secsock**](https://github.com/tardy-org/secsock), and [**S2S**](https://github.com/ziglibs/s2s)
+- ⚡Contributor to  [**Ziglang**](https://codeberg.org/ziglang/zig), [**Asm-Lsp**](https://github.com/bergercookie/asm-lsp) and [**Actix-Web**](https://github.com/actix/actix-web)
+- 🔭 Currently working on [**Glib**](https://github.com/bernardassan/Glib), [**Imagination**](https://github.com/bernardassan/imagination), [**Zvips**](https://github.com/bernardassan/zvips), [**Recblock**](https://github.com/bernardassan/recblock), and [**ModernC**](https://github.com/bernardassan/modernc)
+- 👯 Looking to collaborate and work on **Zig**, **Rust**, **C++**,  **C**, **Python** and **Lua** projects. 
 - 📫 Reach me [**_@themalpha_**](https://t.me/themalpha) on _telegram_ and [**_@mega.alpha_**](https://discord.com/users/760132467931217921) on _discord_
 <!--
 - 🌱 I’m currently learning **Data Science** and **Cloud Computing**

@@ -6,8 +6,9 @@
  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/22438427/285618866-f2764aeb-797a-488d-bc9d-13c8b9357650.png" alt="Born To Learn & Grow" width="54%">
 </picture>
 </h1>
-
+<h6 align="center">“If you knew how much work went into it, you would not call it genius.” - Michelangelo</h6>
 <h1 align="center"> Akwaaba 👋, I'm ✨ <i>Bernard Assan</i> ✨</h1>
+
 <h3 align="center">Systems Software Engineer | Data Scientist | Linux Systems Engineer</h3>
 
 <p align="center"> <a href="https://twitter.com/bernardassan" target="blank"><img src="https://img.shields.io/twitter/follow/bernardassan?logo=twitter&style=for-the-badge" alt="bernardassan" /></a> </p>

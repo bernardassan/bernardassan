@@ -6,16 +6,13 @@
  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/22438427/285618866-f2764aeb-797a-488d-bc9d-13c8b9357650.png" alt="Born To Learn & Grow" width="54%">
 </picture>
 </h1>
-<h6 align="center">“If you knew how much work went into it, you would not call it genius.” - Michelangelo</h6>
 <h1 align="center"> Akwaaba 👋, I'm ✨ <i>Bernard Assan</i> ✨</h1>
 
-<h3 align="center">Systems Software Engineer | Data Scientist | Linux Systems Engineer</h3>
-
-<p align="center"> <a href="https://twitter.com/bernardassan" target="blank"><img src="https://img.shields.io/twitter/follow/bernardassan?logo=twitter&style=for-the-badge" alt="bernardassan" /></a> </p>
+<h3 align="center">Systems Software Engineer | Linux Systems Engineer</h3>
 
 👨‍💻 I'm a software engineer who loves **Systems Programming**, **Project Management** and **Linux Systems**:
 
-- 🌱 Interested in **Backend Engineering**, **Compiler Development**, **Network Programming**, and **Cloud Computing**
+- 🌱 Interested in **Backend Engineering**, **Compiler Development**, **Network Programming**, **Data Science** and **Cloud Computing**
 - 👨‍💻 Maintainer of [**Zzz**](https://github.com/tardy-org/zzz), [**Lmdb**](https://github.com/allyourcodebase/lmdb), [**Tardy**](https://github.com/tardy-org/tardy),  [**Secsock**](https://github.com/tardy-org/secsock), and [**S2S**](https://github.com/ziglibs/s2s)
 - ⚡Contributor to  [**Ziglang**](https://codeberg.org/ziglang/zig), [**Asm-Lsp**](https://github.com/bergercookie/asm-lsp) and [**Actix-Web**](https://github.com/actix/actix-web)
 - 🔭 Currently working on [**Glib**](https://github.com/bernardassan/Glib), [**Imagination**](https://github.com/bernardassan/imagination), [**Zvips**](https://github.com/bernardassan/zvips), [**Recblock**](https://github.com/bernardassan/recblock), and [**ModernC**](https://github.com/bernardassan/modernc)
@@ -37,7 +34,6 @@ original web icon image https://github-production-user-asset-6210df.s3.amazonaws
 
 <table>
   <tr>
-    <td><a href="https://twitter.com/bernardassan" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bernardassan" height="30" width="40" /></a></td>
     <td><a href="https://www.linkedin.com/in/bernardassan/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a></td>
     <td><a href="https://stackoverflow.com/users/12007740/mega-alpha" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="40" /></a></td>
     <td><a href="https://kaggle.com/megaalpha" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" /></a></td>

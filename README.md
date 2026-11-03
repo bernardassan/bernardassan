@@ -8,11 +8,11 @@
 </h1>
 <h1 align="center"> Akwaaba 👋, I'm ✨ <i>Bernard Assan</i> ✨</h1>
 
-<h3 align="center">Systems Software Engineer | Linux Systems Engineer</h3>
+<h3 align="center">Systems Software Engineer | Data Scientist | Linux Systems Engineer</h3>
 
 👨‍💻 I'm a software engineer who loves **Systems Programming**, **Project Management** and **Linux Systems**:
 
-- 🌱 Interested in **Backend Engineering**, **Compiler Development**, **Network Programming**, **Data Science** and **Cloud Computing**
+- 🌱 Interested in **Backend Engineering**, **Compiler Development**, **Network Programming**, **Graphics Programming** and **Cloud Computing**
 - 👨‍💻 Maintainer of [**Zzz**](https://github.com/tardy-org/zzz), [**Lmdb**](https://github.com/allyourcodebase/lmdb), [**Tardy**](https://github.com/tardy-org/tardy),  [**Secsock**](https://github.com/tardy-org/secsock), and [**S2S**](https://github.com/ziglibs/s2s)
 - ⚡Contributor to  [**Ziglang**](https://codeberg.org/ziglang/zig), [**Asm-Lsp**](https://github.com/bergercookie/asm-lsp) and [**Actix-Web**](https://github.com/actix/actix-web)
 - 🔭 Currently working on [**Glib**](https://github.com/bernardassan/Glib), [**Imagination**](https://github.com/bernardassan/imagination), [**Zvips**](https://github.com/bernardassan/zvips), [**Recblock**](https://github.com/bernardassan/recblock), and [**ModernC**](https://github.com/bernardassan/modernc)
